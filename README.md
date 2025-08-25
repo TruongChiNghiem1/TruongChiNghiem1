@@ -8,7 +8,7 @@ quickly. I always update the latest knowledge for
 myself and those around me.
 
 ## PORTFOLIO
-Link: https://truongchinghiem1.github.io/Portfolio/
+Link: 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TruongChiNghiem3009/) 
